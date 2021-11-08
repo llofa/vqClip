@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-""" VQGAN Model (with GPU pooling)"
+""" VQGAN Model w/ CLIP (GPU pooling)"
 # Generate images from text prompts with VQGAN (z+quantize method).
 """
 
